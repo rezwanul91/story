@@ -1,4 +1,6 @@
 This is line number one
 This is line number two
 I am learning the Spring Boot framework
+<<<<<<< HEAD
 I am a Java backend developer
+
